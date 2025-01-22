@@ -1,0 +1,34 @@
+# Return Trends Analysis for Superstore
+
+## Project Overview
+This project analyzes return trends at the Superstore to identify root causes and propose actionable solutions. The analysis covers product categories, geographic regions, customers, and time periods.
+
+## Link to Tableau Dashboard
+[https://haproxy-traffic-splitter/views/Book1_17363824890720/Storyfinished?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
+
+## Files Included
+- Tableau Workbook (`Superstore_Return_Analysis.twbx`)
+- README.md file (this document)
+
+## Instructions
+1. Open the Tableau Public link to view the interactive dashboard.
+2. Download the Tableau Workbook file to explore the data and charts locally.
+
+## Summary of the Analysis
+- **Key Insights:**
+  - The highest return rates are observed in the "Technology" category, with a return rate of 27.33%.
+  - The state of California has the highest return rate at 45.17%, indicating potential regional issues.
+  - Monthly analysis shows peaks in returns during June and December, suggesting seasonal trends.
+
+- **Recommendations:**
+  - Improve quality control for high-return categories.
+  - Address regional service challenges in high-return states.
+  - Enhance customer communication to reduce returns.
+
+## How to Measure Returns
+- Consider using **return rate** as the primary metric to analyze trends effectively.
+- Evaluate the total cost of returns alongside the number of returns to get a complete picture.
+
+Added READ.md for Superstore Analysis
+## Conclusion
+The dashboard provides valuable insights that can help the Superstore reduce returns and improve profitability. Further analysis and actions should focus on addressing key root causes and implementing quality improvements.
